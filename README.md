@@ -1,6 +1,6 @@
 # library
 
-### Simple project developed in C. 📚 
+### Simple project developed in C to discipline of Algorithms and programming logic II 📚 
 
 <img alt="Library" src="githubAssets/foto.png" />
 
@@ -11,6 +11,7 @@
 * The name of the authors of the work;
 * The name of the work;
 * The name of the publisher.
+
 #### 1 - Insert a new registration: when selecting this option, the user must be able to inform all the data of a book. Namely: your name, the authors, and the name of the publisher; the registration code must not be informed by the user as the program must automatically generate it. If the program has already stored the maximum number of books (five), an error message should be displayed: “Registration system full. It is not possible to store more information! ”. The registration code must be filled in automatically by the system and the user must not have the option to change this code. It is important to point out that for each register, it must have a different code, that is, it must not be possible that there are two registers with the same code at the same time;
  
 #### 2 - Show all entries: when selecting this option, the program should print, on the screen, for each book, its code, its name, the authors and the publisher. This option should show on the screen only the data from books that have been registered. If any other spare information is printed, or if previously registered information is missing, it will be considered a programming error. If no customer has been registered, before attempting to execute this option (2 - Show all entries), the program should display the message "List empty!";
