@@ -4,6 +4,26 @@
 
 <img alt="Library" src="githubAssets/foto.png" />
 
+<p align="center">
+
+  <a href="LICENSE" style="text-decoration: none">
+    <img alt="License" src="https://img.shields.io/github/license/Vitorrrocha/library?color=34CB79" />
+  </a>
+
+  <a href="https://github.com/Vitorrrocha/library/issues" style="text-decoration: none">
+    <img alt="Issues" src="https://img.shields.io/github/issues/Vitorrrocha/library?color=34CB79" />
+  </a>
+
+  <a href="#" style="text-decoration: none">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Vitorrrocha/library?color=34CB79" />
+  </a>
+  
+  <a href="https://github.com/Vitorrrocha/library/stargazers" style="text-decoration: none">
+    <img alt="Stars" src="https://img.shields.io/github/stars/Vitorrrocha/library?style=social" />
+  </a>
+
+</p>
+
 #### Consider that you are a freelance desktop systems developer. To start your portfolio, you decide to test a system idea for libraries. Thus, you decide that you will create a Proof of Concept program to validate your ideas and also to be able to show your potential customers. Thus, your program, in beta version (trial version), should allow you to store the registration of a maximum of 5 (five) books at a time (per program execution).
  
 #### For each book, the application must store the following information:
@@ -19,6 +39,9 @@
 #### 0 - Terminate: the program must be terminated if, and only if, the user chooses this option.
 
 #### Important notes:
+
 #### Whenever the user wants to execute options 1 or 2 (except 0), the program must perform what is requested in the statement and, right after that, the program must return to the menu, giving the user the possibility to execute any of the options again listed in the menu.
+
 #### The program should present a menu of options to the user:
+
 #### If the user chooses an option that is not on the menu, the program should display an error message, for example, "Error: invalid option!"; returning to the menu shortly thereafter. Otherwise, the program should not print this error message, that is, if the user tries to execute options 0, 1 or 2, the program does not enter an error state.
